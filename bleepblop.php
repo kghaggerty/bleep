@@ -10,7 +10,7 @@
 		</style>
 	</head>
 	<body>
-		<h3>Bleep //n Blop</h3>
+		<h3>Bleep \\n Blop</h3>
 		<p>Write a loop in PHP to print each number from 1 to 100 on its own line, except:
 		<ul>
 			<li>for multiples of three, print "Bleep"</li>
