@@ -15,7 +15,7 @@
 		<ul>
 			<li>for multiples of three, print "Bleep"</li>
 			<li>for multiples of five, print "Blop"</li>
-			<li>for numbers that are multiples of both three and five, print "BleepBlop"</li>
+			<li>for numbers that are multiples of both three and five, print "Bleep //n Blop"</li>
 		</ul>
 		<table>
 			<tr>
